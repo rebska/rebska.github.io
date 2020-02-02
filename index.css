@@ -19,10 +19,6 @@ h2 {
     font-size: 25pt;
 }
 
-.nav {
-
-}
-
 ul {
     text-align: center;
     font-family: 'Libre Franklin', sans-serif;
@@ -42,6 +38,7 @@ li {
     margin: 0.5em;
     font-size: 15pt;
     vertical-align: middle;
+    list-style-type: none;
 }
 
 li a i {
