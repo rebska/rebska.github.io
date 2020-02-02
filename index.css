@@ -1,0 +1,71 @@
+body, html {
+    background-color: black;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center;
+    font-weight: 200;
+    color: white;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50pt;
+}
+
+h2 {
+    font-size: 25pt;
+}
+
+.nav {
+
+}
+
+ul {
+    text-align: center;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 300;
+    padding: 0;
+}
+
+hr {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color: white;
+    height: 1px;
+    border: none;
+}
+
+li {
+    margin: 0.5em;
+    font-size: 15pt;
+    vertical-align: middle;
+}
+
+li a i {
+    font-size: 17pt;
+    vertical-align: middle;
+    margin-top: -4pt;
+    margin-right: 2pt;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover {
+    color: #888;
+}
+
+header {
+    background-color:black;
+    margin-top: 20%;
+    width: 50em;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5em;
+}
